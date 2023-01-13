@@ -1,0 +1,9 @@
+.mid {
+    background-color: green;
+    width: 80%;
+    height: 95vh;
+}
+
+.flex {
+    display: flex;
+}
